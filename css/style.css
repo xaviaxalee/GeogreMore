@@ -148,8 +148,8 @@ h6,
 
 .service-item {
     position: relative;
-    overflow: hidden;
-    height: 350px;
+    height: auto;
+    padding: 40px 0;
     display: flex;
     flex-direction: column;
     align-items: center;
