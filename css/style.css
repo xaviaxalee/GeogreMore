@@ -112,6 +112,9 @@ h6,
     .navbar-light .navbar-nav .nav-link  {
         padding: 10px 0;
     }
+    .in_touch p{
+        font-size:12px
+    }
 }
 
 .carousel-caption {
@@ -132,6 +135,9 @@ h6,
     .carousel-caption h1 {
         font-size: 30px;
         font-weight: 600 !important;
+    }
+    .in_touch p{
+        font-size:12px
     }
 }
 
